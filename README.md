@@ -5,10 +5,7 @@
 
 ![Normal Kidney](templates/images/Normal.jpg)         ![Cancerous Kidney](templates/images/Tumor.jpg)
 
-<p float="left">
-  <img src="template/images/Normal.jpg" alt="Normal Kidney" width="200" />
-  <img src="template/images/Tumor.jpg" alt="Cancerous Kidney" width="200" /> 
-</p>
+![Normal Kidne](template/images/Normal.jpg) | ![Cancerous Kidney](template/images/Tumor.jpg) |
 
 ### Workflows
 1. Update config.yaml
