@@ -3,7 +3,8 @@
 
 ## Kidney Tumor Classification Using Deep Learning with MLflow, DVC, and AWS and GitHub Actions
 
-![Normal Kidne](template/images/Normal.jpg) | ![Cancerous Kidney](template/images/Tumor.jpg) |
+![Normal Kidney](templates/images/Normal.jpg)         ![Cancerous Kidney](templates/images/Tumor.jpg)
+#![Normal Kidne](template/images/Normal.jpg) | ![Cancerous Kidney](template/images/Tumor.jpg) |
 
 ### Workflows
 1. Update config.yaml
